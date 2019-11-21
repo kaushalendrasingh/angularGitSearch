@@ -1,3 +1,5 @@
+One of the main file that is needed to run this project is node_module folder, You can find this folder when you run command "ng new project_name" in the command prompt.
+
 # AngularGitSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
